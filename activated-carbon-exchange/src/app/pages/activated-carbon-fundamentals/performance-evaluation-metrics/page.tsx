@@ -12,7 +12,7 @@ const PerformanceEvaluationMetrics = () => {
         <ul className="space-y-6">
           <li className="border-b pb-4">
             <h2 className="text-2xl font-semibold mb-2 text-gray-800">
-              <Link href="/pages/activated-carbon-fundamentals/performance-evaluation-metrics/apparent-density" className="text-blue-600 hover:underline">
+              <Link href="performance-evaluation-metrics/apparent-density" className="text-blue-600 hover:underline">
                 Apparent Density
               </Link>
             </h2>
@@ -20,7 +20,7 @@ const PerformanceEvaluationMetrics = () => {
           </li>
           <li className="border-b pb-4">
             <h2 className="text-2xl font-semibold mb-2 text-gray-800">
-              <Link href="/pages/activated-carbon-fundamentals/performance-evaluation-metrics/butane-activity" className="text-blue-600 hover:underline">
+              <Link href="performance-evaluation-metrics/butane-activity" className="text-blue-600 hover:underline">
                 Butane Activity
               </Link>
             </h2>
@@ -28,7 +28,7 @@ const PerformanceEvaluationMetrics = () => {
           </li>
           <li className="border-b pb-4">
             <h2 className="text-2xl font-semibold mb-2 text-gray-800">
-              <Link href="/pages/activated-carbon-fundamentals/performance-evaluation-metrics/carbon-tetrachloride-number" className="text-blue-600 hover:underline">
+              <Link href="performance-evaluation-metrics/carbon-tetrachloride-number" className="text-blue-600 hover:underline">
                 Carbon Tetrachloride Number
               </Link>
             </h2>
@@ -36,7 +36,7 @@ const PerformanceEvaluationMetrics = () => {
           </li>
           <li className="border-b pb-4">
             <h2 className="text-2xl font-semibold mb-2 text-gray-800">
-              <Link href="/pages/activated-carbon-fundamentals/performance-evaluation-metrics/iodine-number" className="text-blue-600 hover:underline">
+              <Link href="performance-evaluation-metrics/iodine-number" className="text-blue-600 hover:underline">
                 Iodine Number
               </Link>
             </h2>
@@ -44,7 +44,7 @@ const PerformanceEvaluationMetrics = () => {
           </li>
           <li className="border-b pb-4">
             <h2 className="text-2xl font-semibold mb-2 text-gray-800">
-              <Link href="/pages/activated-carbon-fundamentals/performance-evaluation-metrics/mean-particle-diameter" className="text-blue-600 hover:underline">
+              <Link href="performance-evaluation-metrics/mean-particle-diameter" className="text-blue-600 hover:underline">
                 Mean Particle Diameter
               </Link>
             </h2>
@@ -52,7 +52,7 @@ const PerformanceEvaluationMetrics = () => {
           </li>
           <li className="border-b pb-4">
             <h2 className="text-2xl font-semibold mb-2 text-gray-800">
-              <Link href="/pages/activated-carbon-fundamentals/performance-evaluation-metrics/mesh-size-distribution" className="text-blue-600 hover:underline">
+              <Link href="performance-evaluation-metrics/mesh-size-distribution" className="text-blue-600 hover:underline">
                 Mesh Size Distribution
               </Link>
             </h2>
@@ -60,7 +60,7 @@ const PerformanceEvaluationMetrics = () => {
           </li>
           <li className="border-b pb-4">
             <h2 className="text-2xl font-semibold mb-2 text-gray-800">
-              <Link href="/pages/activated-carbon-fundamentals/performance-evaluation-metrics/surface-area-(bet-n2)" className="text-blue-600 hover:underline">
+              <Link href="performance-evaluation-metrics/surface-area-(bet-n2)" className="text-blue-600 hover:underline">
                 Surface Area (BET N2)
               </Link>
             </h2>
