@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-const ActivationOfActivatedCarbon = () => {
+const ActivationTechniques = () => {
   return (
     <>
       <Head>
@@ -34,4 +34,4 @@ const ActivationOfActivatedCarbon = () => {
   );
 };
 
-export default ActivationOfActivatedCarbon;
+export default ActivationTechniques;
