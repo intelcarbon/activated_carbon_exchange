@@ -2,7 +2,7 @@ import React from 'react';
 
 const PowderedActivatedCarbon = () => {
   return (
-    <div className="p-6 bg-gray-50">
+    <div className="p-6 bg-gray-100">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-3xl font-bold mb-4 text-gray-900">Powdered Activated Carbon (PAC)</h1>
         <p className="text-gray-700 mb-6">

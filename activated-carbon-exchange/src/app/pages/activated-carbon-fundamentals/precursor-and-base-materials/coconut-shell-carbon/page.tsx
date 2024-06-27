@@ -2,7 +2,7 @@ import React from 'react';
 
 const CoconutShellCarbon = () => {
   return (
-    <div className="p-6 bg-gray-50">
+    <div className="p-6 bg-gray-100">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-3xl font-bold mb-4 text-gray-900">Coconut Shell Carbon: Technical Analysis for Activated Carbon Production</h1>
         <h2 className="text-2xl font-semibold mb-3 text-gray-800">Structural Properties and Pore Size Distribution</h2>
