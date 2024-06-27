@@ -1,5 +1,6 @@
 // pages/apperent-density.tsx
 import React from 'react';
+import Link from 'next/link';
 
 const ApparentDensityOfActivatedCarbon = () => {
   return (
